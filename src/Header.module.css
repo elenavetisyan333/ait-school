@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    border: 1px solid cyan;
+    margin-bottom: 30px;
+}
+.insideHeader{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    align-items: center;
+    justify-content: space-between;
+    padding: 28px 155px;
+}
+.pages{
+    display: flex;
+    justify-content: space-between;
+}
+.pages p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #0e243c;
+    opacity: 0.8;
+    cursor: pointer;
+}
