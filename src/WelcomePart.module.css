@@ -8,6 +8,7 @@
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 160px;
     background: -webkit-linear-gradient(45deg,#92fe9d,#00c9ff);
+    -webkit-background-clip: text;
     letter-spacing: 0.02em;
     -webkit-text-fill-color: transparent;
     margin-left: -6px;
@@ -36,5 +37,10 @@
     padding: 20px 80px;
     border: none;
     box-shadow: 0 4px 16px #004a5d1a;
-    letter-spacing: 1px;
+    letter-spacing: 1.2px;
+    transition: 0.2s;
+}
+.info button:hover{
+    cursor: pointer;
+    transition: 0.2s;
 }
