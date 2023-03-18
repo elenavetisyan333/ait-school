@@ -1,0 +1,20 @@
+.courses{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 155px;
+    margin-top: 100px;
+}
+.courses h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: #0e243c;
+    margin-bottom: 120px;
+}
+.coursesPart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 45px;
+}
