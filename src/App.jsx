@@ -3,6 +3,7 @@ import './App.css'
 import Header from './Header'
 import WelcomePart from './WelcomePart'
 import Courses from './Courses'
+import Affiliates from './Affiliates'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <WelcomePart />
       <Courses />
+      <Affiliates />
     </>
   )
 }
