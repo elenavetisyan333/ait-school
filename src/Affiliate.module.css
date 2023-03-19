@@ -7,12 +7,12 @@
     color: #0e243c;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 0.7px;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
 }
 .affiliate img{
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
 }
 .affiliate p{
     margin: 18px 0px;
