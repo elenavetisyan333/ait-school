@@ -7,8 +7,8 @@ function Affiliates() {
     <div className={styles.affiliatesPart}>
         <h2>Մասնաճյուղեր</h2>
         <div className={styles.affiliates}>
-            <Affiliate image={"../Images/office_ararat.jpg"} city={"Ք. Արարատ"}/>
-            <Affiliate image={"../Images/office_yerevan.jpeg"} city={"Ք. Երևան"}/>
+            <Affiliate image="../Images/office_ararat.jpg" city="Ք. Արարատ" />
+            <Affiliate image="../Images/office_yerevan.jpeg" city="Ք. Երևան" />
         </div>
     </div>
   )
