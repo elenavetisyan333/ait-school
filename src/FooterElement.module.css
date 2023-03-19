@@ -1,0 +1,11 @@
+.footerElement{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.footerElement a{
+    text-decoration: none;
+    color: #0e243c;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
