@@ -4,6 +4,7 @@ import Header from './Header'
 import WelcomePart from './WelcomePart'
 import Courses from './Courses'
 import Affiliates from './Affiliates'
+import Opportunities from './Opportunities'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <WelcomePart />
       <Courses />
       <Affiliates />
+      <Opportunities />
     </>
   )
 }

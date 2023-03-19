@@ -1,0 +1,41 @@
+.opportunity{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding: 30px 35px;
+    background-color: #ffffff80;
+    box-shadow: inset -2px -2px 3px #fff9, inset 0 0 10px #ffffff40;
+    border-radius: 20px;
+    margin-right: 90px;
+}
+.practice{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding: 30px 35px;
+    background-color: #ffffff80;
+    box-shadow: inset -2px -2px 3px #fff9, inset 0 0 10px #ffffff40;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.info h4{
+    color: #0e243c;
+    opacity: 0.9;
+    font-size: 26px;
+    font-weight: lighter;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+.info p{
+    color: #0e243c;
+    opacity: 0.9;
+    font-size: 17px;
+    line-height: 140%;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
