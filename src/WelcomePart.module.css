@@ -32,7 +32,8 @@
 .info button{
     background: linear-gradient(95.99deg,#92fe9d 0%,#00c9ff 100%);
     border-radius: 50px;
-    font-size: 16px;
+    font-size: 17.5px;
+    font-family: 'Montserrat', sans-serif;
     color: #0e243c;
     padding: 20px 80px;
     border: none;
@@ -42,5 +43,6 @@
 }
 .info button:hover{
     cursor: pointer;
+    filter: brightness(0.95);
     transition: 0.2s;
 }

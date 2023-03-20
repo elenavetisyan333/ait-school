@@ -14,10 +14,9 @@
 }
 .pages p{
     font-family: 'Montserrat', sans-serif;
-    font-weight: lighter;
-    font-size: 14px;
+    font-size: 14.5px;
     letter-spacing: 1px;
     color: #0e243c;
-    opacity: 0.8;
+    opacity: 0.9;
     cursor: pointer;
 }
