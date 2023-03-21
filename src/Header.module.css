@@ -3,7 +3,7 @@
 }
 .insideHeader{
     display: grid;
-    grid-template-columns: 0.5fr 1fr;
+    grid-template-columns: auto auto auto;
     align-items: center;
     justify-content: space-between;
     padding: 28px 155px;
@@ -11,6 +11,7 @@
 .pages{
     display: flex;
     justify-content: space-between;
+    gap: 50px;
 }
 .pages p{
     font-family: 'Montserrat', sans-serif;
@@ -18,5 +19,15 @@
     letter-spacing: 1px;
     color: #0e243c;
     opacity: 0.9;
+    cursor: pointer;
+}
+.languages{
+    width: max-content;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-left: 20px;
+}
+.languages img:hover{
     cursor: pointer;
 }
