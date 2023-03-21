@@ -23,6 +23,7 @@
 .info p{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    font-weight: 500;
     line-height: 29px;
     color: #0e243c;
     opacity: 0.8;
@@ -40,6 +41,7 @@
     box-shadow: 0 4px 16px #004a5d1a;
     letter-spacing: 1.2px;
     transition: 0.2s;
+    font-weight: 500;
 }
 .info button:hover{
     cursor: pointer;
